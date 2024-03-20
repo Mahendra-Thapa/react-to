@@ -1,0 +1,14 @@
+
+Hooks are:- 
+
+(router = CreateBrowserRouter )---> It help to route the table
+
+<navlink> --> it help to write the list of the pages name  or list
+
+Need to write the inside the RootLayout file
+<outlet /> hooks which help to make nav bar will be fixed or it will shown in every different pages
+
+const nav = useNavigate(); --> It is used for the link the one pages to another for their description such as : red more 
+
+
+ const ni = useParams(); --->
