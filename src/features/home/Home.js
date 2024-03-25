@@ -38,15 +38,12 @@ const person = {
   
               </div>
   
-              <div className="w-96  p-2.5">
-              <h3 className="text-xl font-semibold ">{product.title}</h3>
-              <h3>{product.description}</h3>
+              <div className="w-96  p-2.5 ">
+             
               <h3 className="text-2xl font-serif ">{`Price: Rs.${product.price}/-`}</h3>
               <h3 className=" font-serif  text-2xl text-blue-700 font-semibold">{`Discount: ${product.discountPercentage}%`}</h3>
-              <h3 className="font-semibold">{`Rating: ${product.rating}`}</h3>
-              <h3 className=" font-semibold">{`Brand: ${product.brand}`}</h3>
-              <h3 className=" font-semibold">{`Stock: ${product.stock}`}</h3>
-              <h3  className="font-semibold">{`Category: ${product.category}`}</h3>
+            
+             
              
             </div>
           </div>

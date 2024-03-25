@@ -26,7 +26,7 @@ const Detail = () => {
     <div className="shadow-sm ">
       <div className="flex justify-center p-7 space-x-5">
         <div>
-          <h1 className="text-2xl text-gray-900 bg-red-100 inline-block  px-3 py-2 my-3 rounded-xl shadow-sm">
+          <h1 className="text-2xl  text-gray-900 bg-red-100 inline-block  px-3 py-2 my-3 rounded-xl shadow-sm">
             {product.title}
           </h1>
           <div className="w-[400px]">
