@@ -4,7 +4,6 @@ import About from "./features/home/About";
 import Contact from "./features/home/Contact";
 import Service from "./features/home/Service";
 import RootLayout from "./ui/RootLayout";
-import { Children } from "react";
 import NoutFound from "./ui/NoutFound";
 import Details from "./features/home/Details";
 
