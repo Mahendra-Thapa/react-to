@@ -1,3 +1,24 @@
+// const App = () => {
+//   return (
+//     <div>
+      
+  
+//     </div>
+//   )
+// }
+// export default App
+
+
+
+
+
+
+
+
+
+//==============================================
+
+
 import { RouterProvider, createBrowserRouter } from "react-router-dom"
 import Home from "./features/home/Home";
 import About from "./features/home/About";
